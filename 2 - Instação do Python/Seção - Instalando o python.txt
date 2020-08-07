@@ -1,0 +1,13 @@
+Seção - Instalação do Python
+O que você verá na seção Instalação do Python
+
+
+Nesta seção você tem como bônus algumas aulas do curso Python para Todos que falam sobre qual versão do Python utilizar, e como instalar o Python no Windows e Linux, além de apresentar o trabalho com ambientes virtuais com Pyenv e Virtualenv.
+
+Se já fez o curso Python para Todos, pode marcar estas aulas como assistidas e seguir em frente.
+
+
+
+Atenciosamente,
+
+Evaldo Wolkers.
